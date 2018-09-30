@@ -43,16 +43,16 @@ canvas-datagrid
 Installation
 ------------
 
-With [npm](https://www.npmjs.com/package/canvas-datagrid)
+With [npm](https://www.npmjs.com/package/canvas-datagrid) -- Use npm's instal feature.
 
     npm install canvas-datagrid
 
 
-Place the single source file `./dist/canvas-datagrid.js` in your web page using a script tag that points to the source or use webpack.
+From Source -- Place the single source file `./dist/canvas-datagrid.js` in your web page using a script tag that points to the source or use webpack.
 
     <script src="dist/canvas-datagrid.js"></script>
 
-Alternatively, instead of downloading and installing, you can link directly to an NPM CDN like [unpkg.com](https://unpkg.com).
+Alternatively, instead of downloading and installing locally, you can link directly to an NPM CDN like [unpkg.com](https://unpkg.com).
 
     <script src="https://unpkg.com/canvas-datagrid"></script>
 
